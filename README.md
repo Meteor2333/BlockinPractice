@@ -24,6 +24,12 @@
  - I'm a Java beginner, and there may be a lot of unreasonable code in the project. You can suggest changes to me.
  - Due to time constraints, there is currently no i18n of this plugin, which is why I have open-sourced it, I hope you can understand me.
  - This readme was written in a hurry, as this is only a preview version, and I will update it when the official version is released.
+ - 在制作插件时由于一个错误，这个插件目前仅在主世界中正常运行，将在下一个正式版本中修复。
+ - 我是一个Java初学者，项目中可能有很多不合理的代码，你可以向我提出更改建议。
+ - 由于时间关系，目前这个插件没有国际化，这也是我开源的原因，望理解。
+ - 这个自述文件写的很仓促，因为这只是一个预览版本，我将会在正式版本发布时更新它。
 
 ## 感谢支持，欢迎Star
 ## Thanks for the support. Welcome Star.
+
+
