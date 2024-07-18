@@ -1,0 +1,12 @@
+#永远不要更改这个设置
+#Never change this setting
+Config:
+  IslandAmount: 0
+  Spawn:
+    ==: org.bukkit.Location
+    world: world
+    x: 0.5
+    y: 125.0
+    z: 0.5
+    pitch: 0.0
+    yaw: 0.0
