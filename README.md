@@ -1,13 +1,11 @@
 # BlockinPractice
 
-----------
-
 >一个用于练习Blockin的Minecraft服务器插件
 >A minecraft server plugin for practice Blockin.
 
 ### 1. Instructions
 
-#### 目前只在1.20做测试，因为低版本的API真的很少，未来可能会支持低版本。~~(其实是我懒啦)~~
+#### 目前只在1.20做测试，因为低版本的API真的很少，未来可能会支持低版本。~~(其实是我懒啦qwq)~~
 #### At present, it is only tested in version 1.20, because there are  few APIs in the lower versions, and the lower versions may be supported in the future. ~~(because I'm lazy)~~
 
 ### 2. Overview
