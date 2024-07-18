@@ -1,0 +1,11 @@
+name: BlockinPractice
+author: Meteor2333
+version: 4.25
+main: com.meteor.blockinPractice.Main
+api-version: 1.13
+
+commands:
+  bp:
+    description: BlockinPractice 管理员命令
+  blockinpractice:
+    description: BlockinPractice 管理员命令别名
