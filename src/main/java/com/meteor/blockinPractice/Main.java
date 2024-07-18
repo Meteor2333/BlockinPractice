@@ -26,14 +26,6 @@ public final class Main extends JavaPlugin implements Listener {
             Bukkit.getConsoleSender().sendMessage("此插件仅限主世界使用, 请不要关闭主世界生成, 插件已卸载");
             Bukkit.getPluginManager().disablePlugin(instance);
         }
-        Bukkit.getConsoleSender().sendMessage(
-                " ______   _                _                   ______",
-                "|  __  \\ | |              | |  __  _          |  ___ \\                       _    _",
-                "| |  \\  || |              | | / / (_)  _ __   | |___| | _  __              _| |_ (_)",
-                "| '——' / | |  ___    ___  | |/ /  | | | '_ \\  | |____/ | |/ _| ____   ___ |_   _|| |  ___   ___",
-                "| .——. \\ | | / _ \\  / _ \\ | |\\ \\  | | | | | | | |      | | /  / _` | / _ \\  | |  | | / _ \\ / _ \\",
-                "| |__/  || || (_) || (_   | | \\ \\ | | | | | | | |      | |/  | (_| || (_    | |_ | || (_  \\  __/",
-                "|______/ |_| \\___/  \\___/ |_|  \\_\\|_| |_| | | |_|      |_|    \\__,_| \\___/  \\___||_| \\___/ \\___|");
         loadPlugin();
         checkConfig();
     }
